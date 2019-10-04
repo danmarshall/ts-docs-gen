@@ -1,4 +1,4 @@
-import { Contracts } from "ts-extractor";
+import { Contracts } from "@danmarshall/ts-extractor";
 import { MarkdownBuilder } from "@simplrjs/markdown";
 
 import { GeneratorHelpers } from "../generator-helpers";

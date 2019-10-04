@@ -1,4 +1,4 @@
-import { Contracts, ExtractDto } from "ts-extractor";
+import { Contracts, ExtractDto } from "@danmarshall/ts-extractor";
 import { MarkdownBuilder } from "@simplrjs/markdown";
 
 import { BasePlugin } from "./base-plugin";

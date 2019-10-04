@@ -1,7 +1,7 @@
 import * as ts from "typescript";
 import * as path from "path";
-import { Extractor, GetCompilerOptions, Contracts } from "ts-extractor";
-import { ApiHelpers } from "ts-extractor/dist/internal";
+import { Extractor, GetCompilerOptions, Contracts } from "@danmarshall/ts-extractor";
+import { ApiHelpers } from "@danmarshall/ts-extractor/dist/internal";
 
 import { GeneratorConfiguration, WorkingGeneratorConfiguration } from "../contracts/generator-configuration";
 import { Plugin } from "../contracts/plugin";

@@ -1,4 +1,4 @@
-import { ExtractDto } from "ts-extractor";
+import { ExtractDto } from "@danmarshall/ts-extractor";
 import { SerializedApiItem, ReferenceRenderHandler } from "../contracts/serialized-api-item";
 
 export abstract class BaseApiItemClass<TKind> implements SerializedApiItem<TKind> {

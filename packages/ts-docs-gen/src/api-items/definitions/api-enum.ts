@@ -1,4 +1,4 @@
-import { Contracts } from "ts-extractor";
+import { Contracts } from "@danmarshall/ts-extractor";
 
 import { GeneratorHelpers } from "../../generator-helpers";
 import { ApiEnumMember } from "./api-enum-member";

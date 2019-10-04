@@ -1,4 +1,4 @@
-import { Contracts } from "ts-extractor";
+import { Contracts } from "@danmarshall/ts-extractor";
 import { BasePlugin } from "@src/abstractions/base-plugin";
 import { SupportedApiItemKindType, PluginResult, PluginOptions } from "@src/contracts/plugin";
 import { GeneratorHelpers } from "@src/generator-helpers";

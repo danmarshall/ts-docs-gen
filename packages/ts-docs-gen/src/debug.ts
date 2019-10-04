@@ -1,6 +1,6 @@
 // This is debug file. DO NOT include in compiled package.
 // import * as path from "path";
-import { Contracts } from "ts-extractor";
+import { Contracts } from "@danmarshall/ts-extractor";
 
 import { GeneratorConfigurationBuilder } from "./builders/generator-configuration-builder";
 import { Generator } from "./generator";

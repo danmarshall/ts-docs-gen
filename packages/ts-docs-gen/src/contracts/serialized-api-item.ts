@@ -1,4 +1,4 @@
-import { Contracts, ExtractDto } from "ts-extractor";
+import { Contracts, ExtractDto } from "@danmarshall/ts-extractor";
 import { ApiItemReference } from "./api-item-reference";
 
 // ApiItemsLists

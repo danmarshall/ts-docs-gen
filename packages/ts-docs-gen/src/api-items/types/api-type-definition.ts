@@ -1,5 +1,5 @@
-import { Contracts } from "ts-extractor";
-import { TsHelpers } from "ts-extractor/dist/internal";
+import { Contracts } from "@danmarshall/ts-extractor";
+import { TsHelpers } from "@danmarshall/ts-extractor/dist/internal";
 import { ApiTypeReferenceBase } from "../api-type-reference-base";
 import { ReferenceRenderHandler } from "../../contracts/serialized-api-item";
 

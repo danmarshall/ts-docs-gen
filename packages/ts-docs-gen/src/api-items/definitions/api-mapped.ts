@@ -1,4 +1,4 @@
-import { Contracts } from "ts-extractor";
+import { Contracts } from "@danmarshall/ts-extractor";
 import { LogLevel } from "simplr-logger";
 
 import { ApiTypeParameter } from "./api-type-parameter";

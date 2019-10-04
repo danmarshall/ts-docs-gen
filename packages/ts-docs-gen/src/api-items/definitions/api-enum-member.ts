@@ -1,4 +1,4 @@
-import { Contracts } from "ts-extractor";
+import { Contracts } from "@danmarshall/ts-extractor";
 import { ApiDefinitionBase } from "../api-definition-base";
 import { ReferenceRenderHandler } from "../../contracts/serialized-api-item";
 

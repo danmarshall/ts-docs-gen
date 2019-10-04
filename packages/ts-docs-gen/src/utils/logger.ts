@@ -11,7 +11,7 @@ export namespace LoggerHelpers {
      * Returns string keys of LogLevel.
      */
     export function GetLogLevelKeys(): string[] {
-        return Object.values(LogLevel).filter(x => typeof x === "string");
+        return Object.values(LogLevel as any as string).filter(x => typeof x === "string");
     }
 
     export function ParseLogLevelKey(key: string): LogLevel {

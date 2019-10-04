@@ -1,4 +1,4 @@
-import { Contracts } from "ts-extractor";
+import { Contracts } from "@danmarshall/ts-extractor";
 import { ApiTypeBase } from "./api-type-base";
 import { GeneratorHelpers } from "../generator-helpers";
 import { ApiDefinitions } from "./api-definition-list";

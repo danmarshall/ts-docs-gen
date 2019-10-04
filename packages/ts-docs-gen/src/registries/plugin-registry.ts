@@ -1,4 +1,4 @@
-import { Contracts } from "ts-extractor";
+import { Contracts } from "@danmarshall/ts-extractor";
 import { Plugin, SupportedApiItemKindType, ApiDefinitionKindAdditional } from "../contracts/plugin";
 
 export class PluginRegistry {

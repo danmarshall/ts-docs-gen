@@ -1,4 +1,4 @@
-import { Contracts } from "ts-extractor";
+import { Contracts } from "@danmarshall/ts-extractor";
 import { ApiDefinitionList } from "@src/api-items/api-definition-list";
 
 import { CheckLists } from "../test-helpers";

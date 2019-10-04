@@ -1,4 +1,4 @@
-import { Contracts, ExtractDto } from "ts-extractor";
+import { Contracts, ExtractDto } from "@danmarshall/ts-extractor";
 import { ReferenceRenderHandler, SerializedApiDefinition } from "../contracts/serialized-api-item";
 import { BaseApiItemClass } from "../abstractions/base-api-item";
 import { ApiItemReference } from "../contracts/api-item-reference";

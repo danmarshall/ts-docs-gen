@@ -1,4 +1,4 @@
-import { Contracts, ExtractDto } from "ts-extractor";
+import { Contracts, ExtractDto } from "@danmarshall/ts-extractor";
 import { LogLevel } from "simplr-logger";
 import { Contracts as MarkdownContracts } from "@simplrjs/markdown";
 import * as path from "path";

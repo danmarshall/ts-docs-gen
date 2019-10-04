@@ -1,4 +1,4 @@
-import { Contracts } from "ts-extractor";
+import { Contracts } from "@danmarshall/ts-extractor";
 import { LogLevel } from "simplr-logger";
 import { ApiTypeReferenceBase } from "../api-type-reference-base";
 import { ReferenceRenderHandler } from "../../contracts/serialized-api-item";

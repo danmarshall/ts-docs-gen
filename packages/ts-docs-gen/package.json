@@ -1,5 +1,5 @@
 {
-    "name": "ts-docs-gen",
+    "name": "@danmarshall/ts-docs-gen",
     "version": "0.2.0",
     "description": "Generating documentation for TypeScript code",
     "main": "./dist/index.js",
@@ -29,7 +29,7 @@
         "@types/yargs": "^10.0.1",
         "fs-extra": "^5.0.0",
         "simplr-logger": "^1.0.1",
-        "ts-extractor": "^4.0.0-rc.4",
+        "@danmarshall/ts-extractor": "^4.0.1-rc.4",
         "typescript": "^3.6.3",
         "yargs": "^11.0.0"
     },

@@ -9,6 +9,6 @@
     "rush-install": "rush install"
   },
   "devDependencies": {
-    "@microsoft/rush": "^4.0.1"
+    "@microsoft/rush": "^5.18.0"
   }
 }
